@@ -1,5 +1,7 @@
 # All the doors
 
+> **Part of it all:** [the bridge](https://jessebrown1980.github.io/the-bridge-to-all-of-it/) — every public thing in one place, so none of it gets lost.
+
 **One button:** → **https://jessebrown1980.github.io/all-the-doors/**
 
 Everything built, on one page. Each opens with a single button. No account, no key,
